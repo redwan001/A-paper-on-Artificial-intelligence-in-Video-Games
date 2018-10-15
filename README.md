@@ -1,1 +1,1 @@
-# A_PAPER_ON_AI_IN_GAMEDEVELOPMENT
+# A paper on Artificial intelligence in Video Games
